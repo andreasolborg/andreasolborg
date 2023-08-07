@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andreas</h1>
 
-* 🔍 I’m a third year student at NTNU studying Engineering and ICT
+* 🔍 I’m a fourth year student at NTNU studying Engineering and ICT
 
 * 🔭 My study specialization is **Production Management and Project Management**
 * 📫 How to reach: **andreasbolborg (at) gmail . com**
