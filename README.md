@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Andreas from Norway<br><br>- 🔍 I’m a fourth year student at NTNU studying Engineering and ICT<br>- 🔭 My study specialization is Production Management and Project Management<br>- 📚 I'm currently learning Web Development</p>
+<p align="left">I'm Andreas from Norway<br><br>- 🔍 I’m a fourth year student at NTNU studying Engineering and ICT<br>- 🔭 My study specialization is Production Management and Project Management<br>- 📚 I'm currently learning Machine Learning</p>
 
 ###
 
