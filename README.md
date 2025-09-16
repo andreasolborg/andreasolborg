@@ -1,25 +1,10 @@
 <h1 align="center">hey there 👋</h1>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=andreasolborg.andreasolborg&"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Andreas from Norway<br><br>- 🔍 I’m a fourth year student at NTNU studying Engineering and ICT<br>- 🔭 My study specialization is Production Management and Project Management<br>- 📚 I'm currently learning Machine Learning</p>
-
-###
-
+<!---
 <h3 align="center">🛠 Language and tools</h3>
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -55,5 +40,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=andreasolborg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
+---!>
 ###
